@@ -1,2 +1,3 @@
 # PracticalTest01Var08
-EIM Test
+
+Virtan Razvan-Nicolae, 341C1
